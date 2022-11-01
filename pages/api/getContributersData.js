@@ -349,7 +349,7 @@ export default function handler(req, res) {
       github: "https://github.com/hinsxd",
     },
     {
-      name: "Hirunagrad",
+      name: "Hiruna Gayashan",
       img:'https://avatars.githubusercontent.com/u/8574962?v=4',
       linkedin: "https://www.linkedin.com/in/hiruna-gayashan-9387241a7/",
       github: "https://github.com/Hirunagrad",
