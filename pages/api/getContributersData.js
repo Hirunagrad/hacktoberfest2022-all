@@ -348,5 +348,11 @@ export default function handler(req, res) {
       linkedin: "",
       github: "https://github.com/hinsxd",
     },
+    {
+      name: "Hirunagrad",
+      img:'https://avatars.githubusercontent.com/u/8574962?v=4',
+      linkedin: "https://www.linkedin.com/in/hiruna-gayashan-9387241a7/",
+      github: "https://github.com/Hirunagrad",
+    },
   ]);
 }
